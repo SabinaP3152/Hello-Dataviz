@@ -7,6 +7,8 @@ A nap is especially advisable if you are going to see King John. I have seen Kin
 I hope the series of visualizations I built are useful to anyone who has some familiarity with Shakespeare’s plays and is interested in thinking about why, where and when certain plays were chosen over others. Noting the socio-political backdrops to these plays is beyond the scope of this blogpost, but I urge viewers to consider what was happening in the years that they were staged and welcome you to comment here about anything that jumps out at you and thus start a conversation about this. 
 Below you will see 56 years of Free Shakespeare in the Park represented by donut chart divided into different colors for each play. When you hover on a color you will see the names of the play and its author (102 productions are plays by Shakespeare and 18 are by other authors). 
 
+{% include plot3.html %}
+
 In the following chart you will find a bar chart that lists Shakespeare’s 37 plays and indicates how many times each was performed in the park. Again, if you hover over the chart more information will pop up. 
 
 Finally, two heat charts show notable actors who appeared more and less frequently in Free Shakespeare in the Park plays from 1962 to 2018, and which directors directed these plays. 
