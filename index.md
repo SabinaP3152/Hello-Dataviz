@@ -2,6 +2,8 @@ Hello fellow Datavizzers, brave first cohort of the DHUM MA. I'm working on find
 
 [blogpost1](./blogpost1.md)
 
-Here is my third blogpost:
+Here is my final project:
 
 [blogpost3](./blogpost3.md)
+
+I will post my second blogpost soon. 
