@@ -1,4 +1,4 @@
-## Frequencies of Plays by Shakespeare in Free Shakespeare in the Park
+## Shakespeare in Free Shakespeare in the Park,  1962-2018
 
 One of my favorite things to do in New York City in the summer is go to a New York Public Theater free Shakespeare in the Park performance at Delacorte Theater in Central Park. This is a whole day experience because unless you can afford to donate at least $500 to New York Public Theater, getting a free ticket involves going to Central Park early in the morning (I try to get there at 6 A.M. when the park opens) and waiting on line until tickets are handed out at noon. I take a blanket, a book, a laptop, food, drink and sunscreen and spend a pleasant morning on a patch of grass hopefully in the shade. This sounds relaxing, and so it is, but usually by the time I have my tickets in hand I’m stiff and achy from lying on the hard lawn (smarter people bring folding chairs), hot from the sun and ready to go home to shower and have a nap so as to be alert enough to enjoy the play, which usually starts around 7 P.M. the same day.
 
