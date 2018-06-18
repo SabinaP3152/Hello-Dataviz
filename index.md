@@ -2,8 +2,12 @@ Hello fellow Datavizzers, brave first cohort of the DHUM MA. I'm working on find
 
 [blogpost1](./blogpost1.md)
 
+My second blogpost is about my quantified self. You can view it here:
+
+[blogpost2](./blogpost2.md)
+
 Here is my final project:
 
 [blogpost3](./blogpost3.md)
 
-I will post my second blogpost soon.
+
