@@ -2,3 +2,6 @@ Hello fellow Datavizzers, brave first cohort of the DHUM MA. I'm working on find
 
 [blogpost1](./blogpost1.md)
 
+Here is my third blogpost:
+
+[blogpost3](./blogpost3.md)
