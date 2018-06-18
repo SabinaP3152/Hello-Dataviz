@@ -6,4 +6,4 @@ Here is my final project:
 
 [blogpost3](./blogpost3.md)
 
-I will post my second blogpost soon. 
+I will post my second blogpost soon.
