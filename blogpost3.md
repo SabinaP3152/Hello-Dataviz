@@ -11,7 +11,11 @@ Below you will see 56 years of Free Shakespeare in the Park represented by donut
 
 In the following chart you will find a bar chart that lists Shakespeare’s 37 plays and indicates how many times each was performed in the park. Again, if you hover over the chart more information will pop up. 
 
+{% include plot4.html %}
+
 Finally, two heat charts show notable actors who appeared more and less frequently in Free Shakespeare in the Park plays from 1962 to 2018, and which directors directed these plays. 
+
+{% include plot5.html %}
 
 I made about ten sketches before I hit on donuts for my first visualization. This was a particularly challenging visualization to make because it brings together so much information; each year is a small multiple of plays, and it seems important to me that they are seen all together so that we can see the whole theatrical project reaching over time and made up of many diverse elements. Donuts are perfect for this and I was super excited when I came up with my sketch. I wanted to label each donut segment with the name of the play it represents, but labels wouldn’t curve and furthermore tended to sit one upon the other. Another thing that is lacking is in this chart is a color key. I didn’t include a color key because I don’t have one for the whole set; in order to have a tiled set of donuts instead of a string of 56 donuts I had to create a worksheet for each seven donuts and then put them together in a dashboard. Each worksheet has its own key which I hid these because I wanted one key for all the donuts, not a key for each row. I wanted the viewer to be able to click on, say, Measure for Measure, and segments representing that play would leap to the foreground in every year it was performed. My tooltips are a bit wonky at times, and the label for 2002 got lost.
 
