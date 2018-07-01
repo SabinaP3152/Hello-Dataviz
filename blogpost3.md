@@ -13,7 +13,7 @@ In the following chart you will find a bar chart that lists Shakespeare’s 37 p
 
 {% include plot4.html %}
 
-Finally, two heat charts show notable actors who appeared more and less frequently in Free Shakespeare in the Park plays from 1962 to 2018, and which directors directed these plays. 
+Finally, two treemaps show notable actors who appeared more and less frequently in Free Shakespeare in the Park plays from 1962 to 2018, and which directors directed these plays. 
 
 {% include plot5.html %}
 
