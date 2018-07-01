@@ -30,9 +30,9 @@ Now that I had my first donut set up, I dragged Year to Rows and found myself wi
 
 I didn’t want anything to happen when you hover over the year label at the center of the donut, so I clicked on my third CALC:0 marks card then clicked on Tooltip and deleted all text. I did want information to pop up when you hover on the play segments, so I selected the second CALC:0 marks card and dragged Play and Director to Detail. I clicked on Tooltip and edited the text box so that it read 
 
-<Play>
-by <ATTR(Author)>
-Directed by <ATTR(Director)>
+Play
+by ATTR(Author)
+Directed by ATTR(Director)
   
 Finally, I deleted the worksheet title by right clicking on the top of the page, selecting Edit Title and erasing all text. I renamed the worksheet “Performed 1962-68.” To give the donuts more space I changed the view from Standard to Entire View in the dropdown menu at the center top of the screen. Then I proceeded to duplicate the worksheet. 
 
@@ -54,8 +54,8 @@ I pulled the Year dimension onto Label in Marks and years of performances appear
 
 Because every production of a play is a unique creation, I added the director’s name to the text that pops up when you hover over a year. To do this, I edited the text square by clicking on Tooltip and deleting extra words and unnecessary information, leaving only
 
-<Play>
-Directed by <ATTR(Director)> 
+Play
+Directed by ATTR(Director) 
 
 It was not necessary to create a dashboard to house my second visualization, because it consisted of only one sheet.
 
@@ -75,13 +75,13 @@ My treemaps are effective and aesthetically pleasing after the donuts chart and 
 
 To compromise, I dragged Number of Records to Tooltip, which I edited so that it reads
 
-<Notable_Cast>
-acted in <SUM(Number of Records)> play(s)
+Notable_Cast
+acted in SUM(Number of Records) play(s)
 
 This is not entirely satisfactory because my idea was to say which plays the actors acted in and in which years. I had the same issue with the directors’ treemap, and solved it the same way, writing
 
-<Director>
-directed <SUM(Number of Records)> play(s)
+Director
+directed SUM(Number of Records) play(s)
 
 I created another dashboard and dragged the Notable Cast and Directors sheets into it, one on top of the other. I selected Entire View, got rid of borders in Format > Format Borders and saved my project. I was ready to publish my work on Github.   
 
