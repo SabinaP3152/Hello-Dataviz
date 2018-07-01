@@ -36,7 +36,7 @@ Finally, I deleted the worksheet title by right clicking on the top of the page,
 
 In my duplicate copy I clicked on the Year filter, selected the next seven years, and renamed the worksheet “Performed 1969-75.” I did this repeatedly until I had eight worksheets with seven plays on each, and one worksheet with only one donut for 2018. I added some text to this last worksheet to summarize the content of the visualization and provide the dates of this year’s plays. Now I was ready to put worksheets together to make my tiled view. 
 
-I created a dashboard and called it “FSP 1962-2018.” First, I changed its size to 1000 X 1400 and then dragged the eight donuts worksheets onto the dashboard in a horizontal stack. As I did this I had to keep adjusting the heights of the sheets so that they didn’t squish each other. I right clicked the top worksheet and added a title and a prompt to hover over the donuts for more information. Then I right clicked on each worksheet in turn and selected Format > Format Borders and removed all borders, shading and lines. I saved my project and published it on Tableau Public by clicking on the dropdown menu Server > Tableau Public > Save to Tableau Public As.
+I created a dashboard and called it “FSP 1962-2018.” First, I changed its size to 1000 X 1400 and then dragged the eight donuts worksheets onto the dashboard in a horizontal stack. As I did this I had to keep adjusting the heights of the sheets so that they didn’t squish each other. I right clicked the top worksheet and added a title and a prompt to hover over the donuts for more information. Then I right clicked on each worksheet in turn and selected Format, Format Borders and then removed all borders, shading and lines. I saved my project and published it on Tableau Public by clicking on the dropdown menu Server, Tableau Public, Save to Tableau Public As.
 
 The second visualization was a response to the query that prompted me to embark on this project. I wanted to know many times King John had been performed in Free Shakespeare in the Park and how the number of performances of King John compares to numbers of performances of Shakespeare’s other plays. In this case, because there were only 37 different Shakespeare plays, I could visualize them all in one bar chart. 
 
@@ -77,5 +77,5 @@ This is not entirely satisfactory because my idea was to say which plays the act
 Director
 directed SUM(Number of Records) play(s)
 
-I created another dashboard and dragged the Notable Cast and Directors sheets into it, one on top of the other. I selected Entire View, got rid of borders in Format > Format Borders and saved my project. I was ready to publish my work on Github.   
+I created another dashboard and dragged the Notable Cast and Directors sheets into it, one on top of the other. I selected Entire View, got rid of borders in Format, Format Borders and saved my project. I was ready to publish my work on Github.   
 
