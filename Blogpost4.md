@@ -24,8 +24,6 @@ I clicked on the bottom marks card, changed the color to white and made the size
 
 I clicked on my pie marks card (the middle one) again and saw that I had a new option here: Angle. 
 
-- adapted from https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/tableau/2018-06-14_Advanced_Charts_Tableau_Tutorial.md  
-
 Now that I had my first donut set up, I dragged Year to Rows and found myself with a long string of 56 tiny donuts. I didn’t want to string the donuts but instead to tile them. As a first step in building my tiled view I created a filter of seven years by dragging Year onto Filter and selecting 1962 through 1968. Now I had a line of seven donuts side by side. I dragged Year to Label in the Marks shelf to show the year in numbers in the middle of each donut. I then dragged Play to Color and now each donut represented a year and its segments represented plays performed that year. 
 
 I didn’t want anything to happen when you hover over the year label at the center of the donut, so I clicked on my third CALC:0 marks card then clicked on Tooltip and deleted all text. I did want information to pop up when you hover on the play segments, so I selected the second CALC:0 marks card and dragged Play and Director to Detail. I clicked on Tooltip and edited the text box so that it read 
