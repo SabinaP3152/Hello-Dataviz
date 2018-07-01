@@ -10,4 +10,6 @@ Here is my final project:
 
 [blogpost3](./blogpost3.md)
 
+And this is my white paper:
 
+[blogpost3](./blogpost4.md)
