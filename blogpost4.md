@@ -12,7 +12,7 @@ I clicked the dropdown menu on the second CALC:0 and selected Dual Axis. By doin
 I right clicked the right axis and selected Synchronize Axis.
 I clicked on the middle marks card and changed the Mark Type from a circle to a pie.
 I clicked on the bottom marks card, changed the color to white and made the size of this circle a bit smaller. I now had a donut!
-I clicked on my pie marks card (the middle one) again and saw that I had a new option here: Angle.
+I clicked on my pie marks card (the middle one) again and saw that I had a new option here: Angle (adapted from "Advanced Chart Types: Bump Chart, Donut Chart, Bullet Graph, Slope Chart," Tableau Tutorial Cheatsheet | Thursday, June 14, 2018).
 
 Now that I had my first donut set up, I dragged Year to Rows and found myself with a long string of 56 tiny donuts. I didn’t want to string the donuts but instead to tile them. As a first step in building my tiled view I created a filter of seven years by dragging Year onto Filter and selecting 1962 through 1968. Now I had a line of seven donuts side by side. I dragged Year to Label in the Marks shelf to show the year in numbers in the middle of each donut. I then dragged Play to Color and now each donut represented a year and its segments represented plays performed that year.
 
