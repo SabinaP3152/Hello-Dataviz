@@ -1,15 +1,3 @@
-Hello fellow Datavizzers, brave first cohort of the DHUM MA. I'm working on finding my way around Github so things are pretty minimal here right now, but they'll get more elaborate as I figure this out. Godspeed to us all! 
-
-[blogpost1](./blogpost1.md)
-
-My second blogpost is about my quantified self. You can view it here:
-
-[blogpost2](./blogpost2.md)
-
-Here is my final project:
+I did this project in 2018 for my first class in data visualization. I am fond of the donuts I chose to use. I built them with Tableau Public, which doesn't do donuts, by placing a small pie chart on top of a larger one.
 
 [blogpost3](./blogpost3.md)
-
-And this is my white paper:
-
-[blogpost4](./blogpost4.md)
