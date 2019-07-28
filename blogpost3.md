@@ -4,10 +4,6 @@ One of my favorite things to do in New York City in the summer is go to a New Yo
 
 A nap is especially advisable if you are going to see King John. I have seen King John twice, in its full four-hour length, once at Delacorte Theater in Central Park and once in London at Shakespeare’s New Globe. Both times I wondered why someone chose that play. It has some good parts, but unless you know a lot about the Magna Carta of 1215 and the English constitutional crisis that ensued, you may find it hard, as I did, to follow the plot. I suspect that King John is usually staged only because it is by Shakespeare; if so, the logical thing would be to stage it once in a full cycle. To my surprise, when New York Public Theater announced in 1997 that it had produced all of Shakespeare’s 37 plays, King John had been staged twice. King John twice, and Antony and Cleopatra only once. This baffling choice piqued my curiosity, so I set to visualizing data I pulled from Wikipedia to see what other unexpected trends might lie in store. 
 
-I hope the series of visualizations I built are useful to anyone who has some familiarity with Shakespeare’s plays and is interested in thinking about why, where and when certain plays were chosen over others. Connecting contemporary social and political shifts with performances is beyond the scope of this blogpost, but it would be interesting to consider what was happening in the years these plays were staged and welcome you to comment here about anything that jumps out at you to start a conversation. 
-
-Below you will see 56 years of Free Shakespeare in the Park represented by donut chart divided into different colors for each play. When you hover on a color you will see the names of the play and its author (102 productions are plays by Shakespeare and 18 are by other authors). 
-
 {% include plot3.html %}
 
 In the following chart you will find a bar chart that lists Shakespeare’s 37 plays and indicates how many times each was performed in the park. Again, if you hover over the chart more information will pop up. 
